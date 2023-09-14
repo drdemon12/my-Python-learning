@@ -1,0 +1,5 @@
+r = float(input("r değeri giriniz: "))
+alan = (22/7 * (r**2))
+cevre = (2 *22/7 *r)
+print(alan)
+print(cevre)
